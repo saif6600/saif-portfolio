@@ -42,8 +42,8 @@ const projects = [
     gradient: 'from-green-400/20 via-transparent to-transparent',
     accentColor: '#00ff9f',
     features: ['Live weather data', 'Error handling', 'Reusable components', 'City search'],
-    github: 'https://github.com/saif-ali6600',
-    live: '#',
+    github: 'https://github.com/saif6600/weather-app',
+    live: 'https://weather-app-zeta-five-65.vercel.app/',
     featured: false,
   },
 ];
