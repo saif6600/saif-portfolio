@@ -120,15 +120,15 @@ const Hero = ({ theme }) => {
                 <FiArrowDown className="w-4 h-4 animate-bounce" />
               </motion.button>
               <motion.a
-                href="mailto:bakkarsaifali@gmail.com"
-                className="cyber-btn-secondary flex items-center gap-2"
-                whileHover={{ scale: 1.03 }}
-                whileTap={{ scale: 0.97 }}
-              >
-                <FiDownload className="w-4 h-4" />
-                Download CV
-              </motion.a>
-            </motion.div>
+  href="/resume.pdf"
+  download="Saif_Ali_Bakkar_Resume.pdf"
+  className="cyber-btn-secondary flex items-center gap-2"
+  whileHover={{ scale: 1.03 }}
+  whileTap={{ scale: 0.97 }}
+>
+  <FiDownload className="w-4 h-4" />
+  Download CV
+</motion.a>
 
             {/* Social links */}
             <motion.div
