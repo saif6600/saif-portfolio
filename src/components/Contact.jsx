@@ -27,7 +27,7 @@ const contactInfo = [
 ];
 
 const socialLinks = [
-  { icon: FiGithub, href: 'https://github.com/saif-ali6600', label: 'GitHub' },
+  { icon: FiGithub, href: 'https://github.com/saif6600', label: 'GitHub' },
   { icon: FiLinkedin, href: 'https://linkedin.com/in/saif-ali6600', label: 'LinkedIn' },
   { icon: FiMail, href: 'mailto:bakkarsaifali@gmail.com', label: 'Email' },
 ];
