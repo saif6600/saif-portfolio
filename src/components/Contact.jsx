@@ -13,7 +13,7 @@ const contactInfo = [
   {
     icon: FiPhone,
     label: 'Phone',
-    value: '+91 70576566600',
+    value: '+91 7057656600',
     href: 'tel:+917057656600',
     accent: '#00ff9f',
   },
