@@ -90,7 +90,7 @@ const Footer = ({ theme }) => {
                   isDark ? 'text-gray-500 hover:text-cyber-cyan' : 'text-gray-500 hover:text-purple-600'
                 }`}
               >
-                +91 70576566600
+                +91 7057656600
               </a>
               <div className="flex gap-2 pt-1">
                 {socialLinks.map(({ icon: Icon, href, label }) => (
